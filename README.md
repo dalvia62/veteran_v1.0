@@ -1,2 +1,5 @@
 # veteran_v1.0
-A wordlist generator in python 2.x
+
+Veteran is a program written in python for 2.x interpretor and 
+
+# Requirements
