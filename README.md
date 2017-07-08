@@ -11,11 +11,13 @@ One should have Python 2.x installed.
 
 # How to use
 <ol type=1>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
+<li>Start "Veteran"</li>
+<li>Enter minimum length of character of the password</li>
+<li>Enter maximum length of character of the password</li>
+<li>Enter number of words to generate</li>
 </ol>
+<br>Your worlist is generated and stored in "<b>Wlist.txt</b>"
+<img src="https://lh3.google.com/u/0/d/0B37r9oO73yNHV3BRbHRYZnd3OVU=w1366-h662-iv1" class="a-b-ta-Ua" alt="Displaying veteran.JPG" aria-hidden="true">
 
 # Contact Information
 
