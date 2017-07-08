@@ -15,8 +15,8 @@ One should have Python 2.x installed.
 <li></li>
 <li></li>
 <li></li>
-
 </ol>
+
 # Contact Information
 
 All types of queries are entertained at <a style="color:red;" href="mailto:tbhaxor@gmail.com">tbhaxor@gmail.com</a>
