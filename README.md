@@ -17,7 +17,7 @@ One should have Python 2.x installed.
 <li>Enter number of words to generate</li>
 </ol>
 <br>Your worlist is generated and stored in "<b>Wlist.txt</b>"
-<img src="https://lh3.google.com/u/0/d/0B37r9oO73yNHV3BRbHRYZnd3OVU=w1366-h662-iv1" >
+<img src="https://raw.githubusercontent.com/tbhaxor/veteran_v1.0/master/pic.JPG" >
 
 # Contact Information
 
