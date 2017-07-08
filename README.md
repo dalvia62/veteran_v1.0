@@ -8,6 +8,15 @@ Attacker has a choice to bruteforce but for that one should have a wordlist. It 
 # Requirements
 One should have Python 2.x installed.
 <br>If you are a windows user and you don't have python installed then you can <i>.exe</i> file
+
+# How to use
+<ol type=1>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+
+</ol>
 # Contact Information
 
 All types of queries are entertained at <a style="color:red;" href="mailto:tbhaxor@gmail.com">tbhaxor@gmail.com</a>
